@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Go to the source of the information
+title: Going to Source of Information
 date: 2018-06-12 16:06:04
 category: "My Blog"
 tags:
