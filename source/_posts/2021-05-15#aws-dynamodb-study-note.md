@@ -259,3 +259,9 @@ In memory cache for **read**, delivers up to 10 times performance improvement, c
 
 A write cache by SQS + Lamdba to make sure customer don't lose data even DDB becomes unavailable.
 
+## Security
+
+AWS IAM provide attributed based access control, DDB provide a feature to generate strict policy.
+
+AWS CloudTrail provide trail to support DDB api operation log except scan/query, log can go to either S3 bucket or SNS.
+
